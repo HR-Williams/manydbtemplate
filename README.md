@@ -56,13 +56,13 @@ MySQL is a type of database software used to create, edit, query, and manage SQL
 - For Mac Users please [Click Here](https://dev.mysql.com/downloads/file/?id=484914) to download MySQL Installer
 - For Windows Users please [Click Here](https://dev.mysql.com/downloads/file/?id=484919)
 
-- Verify MySQL installation by opening the terminal and entering the command `mysql -uroot -p[THEPASSWORDYOUSELECTED]
+- Verify MySQL installation by opening the terminal and entering the command `mysql -uroot -p[THEPASSWORDYOUSELECTED]`
 - If you gain access you will see see the MYSQL command line!
 
 ##### Installing MySQL Workbench
 
 - Please [Click Here](https://dev.mysql.com/downloads/workbench/) to install the correct version for your machine
-- Open MySQL Workbench and select Local instance 3306 server. You will need to enter the password you selected
+- Open MySQL Workbench and select `Local instance 3306 server`. You will need to enter the password you selected
 
 ##### Compiling
 
